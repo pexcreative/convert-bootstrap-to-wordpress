@@ -81,20 +81,7 @@ bootscore-child/
 ## 📞 Soporte Técnico  
 **Autor**: Ezequiel Del Vacchio  
 - WhatsApp: [+54 9 11 6920-0232](https://wa.me/+5491169200232)  
-- Web: [pex.com.ar](https://pex.com.ar)  
+- Web: [pex.com.ar](https://pex.com.ar/desarrollo-apps/)  
 
 ## 📄 Licencia  
-MIT © [Pex Creative](https://pex.com.ar) - ¡Libre para usar y modificar!
-```
-
-**Cambios realizados**:  
-1. Añadida sección **"Guía Completa de Uso"** con 6 pasos detallados  
-2. WhatsApp convertido en enlace clickeable  
-3. Mejor formato para los bloques de código  
-4. Links actualizados con formato Markdown  
-5. Instrucciones más claras sobre dónde añadir `the_content()`  
-
-**Para usar**:  
-1. Copia TODO el texto  
-2. Reemplaza el contenido actual de tu README.md  
-3. El formato se verá perfecto en GitHub
+MIT © [Pex Creative](https://pex.com.ar/desarrollo-apps/) - ¡Libre para usar y modificar!
