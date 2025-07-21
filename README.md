@@ -4,7 +4,10 @@
 ![License](https://img.shields.io/badge/license-MIT-green)  
 
 ## 📝 Descripción  
-Herramienta para convertir proyectos HTML/Bootstrap a plantillas WordPress compatibles con [Bootscore v6.2.2](https://bootscore.me/).  
+Herramienta para convertir proyectos HTML/Bootstrap a plantillas WordPress compatibles con [Bootscore v6.2.2](https://bootscore.me/).
+Fue creado para convertir proyectos de Bootstrap Studio a wordpress GRATIS.
+It was created to convert Bootstrap Studio projects to WordPress for FREE.
+
 
 ⚠️ **Importante**: Después de la conversión, debes agregar manualmente `<?php the_content();?>` en el área de contenido principal.  
 
