@@ -23,11 +23,11 @@ Herramienta para convertir proyectos HTML/Bootstrap a plantillas WordPress compa
 ## 🛠️ Instalación  
 ```bash  
 # 1. Clonar repositorio  
-git clone https://github.com/pexcreative/bootstrap-to-wp-converter.git  
+git clone https://github.com/pexcreative/convert-bootstrap-to-wordpress.git  
 
 # 2. Ejecutar convertidor  
-cd bootstrap-to-wp-converter  
-python convertidor_v1.6.py  
+cd convert-bootstrap-to-wordpress  
+python converter1_6.py  
 ```  
 
 ## 📂 Estructura de Archivos  
