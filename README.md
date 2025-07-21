@@ -8,8 +8,6 @@ Herramienta para convertir proyectos HTML/Bootstrap a plantillas WordPress compa
 
 ⚠️ **Importante**: Después de la conversión, debes agregar manualmente `<?php the_content();?>` en el área de contenido principal.  
 
-🔍 **Palabras clave**: convertidor bootstrap a wordpress, html to wordpress theme  
-
 ## 🌟 Características  
 - ✨ Conversión automática HTML → PHP  
 - 🛠️ Genera:  
