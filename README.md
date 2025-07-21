@@ -1,4 +1,4 @@
-# 🚀 Convert Bootstrap Studio to WordPress by Pex Creative  
+# 🚀 Convert Bootstrap Studio to WordPress by Pex  
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)  
 ![Version](https://img.shields.io/badge/version-1.6-orange)  
 ![License](https://img.shields.io/badge/license-MIT-green)  
