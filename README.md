@@ -9,7 +9,7 @@ Fue creado para convertir proyectos de Bootstrap Studio a wordpress GRATIS.
 It was created to convert Bootstrap Studio projects to WordPress for FREE.
 
 
-⚠️ **Importante**: Después de la conversión, debes agregar manualmente `<?php the_content();?>` en el área de contenido principal.  
+⚠️ **Importante**:  Después de la conversión, debes agregar manualmente `<?php the_content();?>` en el área de contenido principal.  
 
 ## 🌟 Características  
 - ✨ Conversión automática HTML → PHP  
